@@ -3,6 +3,4 @@ streamlit
 sqlalchemy
 streamlit_chat
 ibm_watson_machine_learning
-#pip3 install flask-sqlalchemy
-#pip install "ibm-generative-ai[langchain]"
-#sentence_transformers
+watsonxlangchain
