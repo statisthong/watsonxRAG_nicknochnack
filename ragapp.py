@@ -14,7 +14,7 @@ creds = {
 }
 llm = LangChainInterface(credentials=creds, model='meta-llama/llama-2-70b-chat', 
 params = {'decoding_method':'sample', 'max_new_tokens':200, 'temperature':0.5}, 
-project_id='YOUR PROJECT ID HERE')
+project_id='f2bb6b0d-70ef-40fb-bf88-f1c569cad2d4')
 
 
 @st.cache_resource
