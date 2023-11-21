@@ -3,4 +3,4 @@ streamlit
 sqlalchemy
 streamlit_chat
 ibm_watson_machine_learning
-watsonxlangchain
+#watsonxlangchain
